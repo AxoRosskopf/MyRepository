@@ -1,4 +1,3 @@
-#MAIN
 x=0
 nums = [1,3,4,3]
 print(len(nums))
