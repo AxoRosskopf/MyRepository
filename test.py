@@ -6,7 +6,6 @@ print(min(nums))
 print(sum(nums))
 print(sum(nums)/len(nums))
 
-#ERROR
 if __name__ == "__main__":
     if x == 4:
         while x >= 20:
