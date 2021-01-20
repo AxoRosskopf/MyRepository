@@ -7,12 +7,6 @@ print(min(nums))
 print(sum(nums))
 print(sum(nums)/len(nums))
 
-<<<<<<< HEAD
-#Al·lahu-àkbar
-=======
-#JESUS CHRIST
-#JESUS CHRIST IS THE NUMBER ONE
->>>>>>> submaster
 #ERROR
 if __name__ == "__main__":
     if x == 4:
