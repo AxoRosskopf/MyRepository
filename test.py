@@ -22,8 +22,6 @@ if __name__ == "__main__":
         else:
             print("  ",y)
 
-
-#ddddd
     print("BIGGER NUMBER:", max(lst), " SMALLER NUMBER:",z)
 
     pass
